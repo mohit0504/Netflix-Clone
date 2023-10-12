@@ -11,7 +11,7 @@ mongoose.connect(process.env.MONGO_URL)
 .catch((err) => console.log("Database not connected",err))
 
 app.use(cors({
-    origin:["https://netflix-clone-frontend-nine.vercel.app/"],
+    origin:["https://netflix-clone-frontend-nine.vercel.app"],
     method: ["POST", "GET"],
     credentials : true,
 }));
