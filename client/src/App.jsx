@@ -18,7 +18,7 @@ import LoginScreen from './screens/LoginScreen';
 
 
 
-axios.defaults.baseURL = 'https://netflix-clone-seven-gamma.vercel.app/';
+
 axios.post('https://netflix-clone-seven-gamma.vercel.app/')
 axios.defaults.withCredentials = true;
 
