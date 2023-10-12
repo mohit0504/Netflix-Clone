@@ -12,7 +12,7 @@ import HomeScreen from './HomeScreen';
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
 
 import LoginScreen from './screens/LoginScreen';
-import Dashboard from './pages/Dashboard'
+
 
 // import ProfileScreen from './screens/ProfileScreen';
 
