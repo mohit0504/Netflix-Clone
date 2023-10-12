@@ -11,7 +11,7 @@ mongoose.connect(process.env.MONGO_URL)
 .catch((err) => console.log("Database not connected",err))
 
 app.use(cors({
-    origin:["https//deploy-mern-1whq.vercel.app"],
+    origin:[""],
     method: ["POST", "GET"],
     credentials : true,
 }));
