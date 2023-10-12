@@ -18,7 +18,8 @@ import Dashboard from './pages/Dashboard'
 
 
 
-axios.defaults.baseURL = 'netflix-clone-seven-gamma.vercel.app';
+axios.defaults.baseURL = 'https://netflix-clone-seven-gamma.vercel.app/';
+axios.post('https://netflix-clone-seven-gamma.vercel.app/')
 axios.defaults.withCredentials = true;
 
 function App() {
