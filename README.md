@@ -1,4 +1,4 @@
-![image](https://github.com/mohit0504/Netflix-Clone/assets/72148174/98c21468-0ca4-463d-8583-6a86280db91c)# Netflix-Clone
+# Netflix-Clone
 Watch this video
 https://drive.google.com/file/d/1yk0XAET4x8YzfnD5Ia3oH6389oQ9jPAe/view?usp=sharing
 
@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1yk0XAET4x8YzfnD5Ia3oH6389oQ9jPAe/view?usp=shari
 
 ![1](https://github.com/mohit0504/Netflix-Clone/assets/72148174/5a908cba-6c68-4cda-ab9a-99c6ab105403)
 
-2nd Interface - signIn
+2nd Interface - SignIn
 
 ![2](https://github.com/mohit0504/Netflix-Clone/assets/72148174/77e5c04a-c61c-40f2-8fe8-4f2847ceda22)
 
